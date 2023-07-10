@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 I'm Jun Chen
-
-- :office_worker: Works at to be determine
   
 - :school: Master's and Bachelor's in Computer Science From Georgia Institute of Technology
 
