@@ -4,7 +4,7 @@ I'm Jun Chen
   
 - :school: Master's and Bachelor's in Computer Science From Georgia Institute of Technology
 
-- :star: Interested in High Performance Computing, Compilers, Operating Systems, AI, Video & Streaming, Robotics and Autonomous Systems, Financial Modeling, Quantitative Research, Material Science, Culinary 
+- :star: Interested in High Performance Computing, Compilers, Operating Systems, AI, Video & Streaming, Robotics and Autonomous Systems, Financial Modeling
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchen706&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
